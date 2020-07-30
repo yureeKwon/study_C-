@@ -1,2 +1,2 @@
-# study_C-
+# study_C++
 study data structure with C++
